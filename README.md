@@ -1,3 +1,3 @@
 # primer-repositorio
 mi primer repositorio
-ta potente
+ta potente.
